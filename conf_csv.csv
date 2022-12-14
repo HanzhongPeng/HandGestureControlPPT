@@ -1,0 +1,44 @@
+level,website
+A,http://dblp.uni-trier.de/db/conf/ccs/
+A,     http://dblp.uni-trier.de/db/conf/eurocrypt/
+A,http://dblp.uni-trier.de/db/conf/sp/
+A,  http://dblp.uni-trier.de/db/conf/crypto/
+A,http://dblp.uni-trier.de/db/conf/uss/
+A,  http://dblp.uni-trier.de/db/conf/ndss/
+B,http://dblp.uni-trier.de/db/conf/acsac/
+B,   http://dblp.uni-trier.de/db/conf/asiacrypt/
+B,    http://dblp.uni-trier.de/db/conf/esorics/
+B,  http://dblp.uni-trier.de/db/conf/fse/
+B, http://dblp.uni-trier.de/db/conf/csfw/
+B, http://dblp.uni-trier.de/db/conf/srds/
+B, http://dblp.uni-trier.de/db/conf/ches/
+B,  http://dblp.uni-trier.de/db/conf/dsn/
+B,  http://dblp.uni-trier.de/db/conf/raid/
+B,  http://dblp.uni-trier.de/db/conf/pkc/
+B,  http://dblp.uni-trier.de/db/conf/tcc/
+C, http://dblp.uni-trier.de/db/conf/wisec/
+C,http://dblp.uni-trier.de/db/conf/sacmat/
+C,  http://dblp.uni-trier.de/db/conf/drm/
+C,    http://dblp.uni-trier.de/db/conf/ih/
+C,  http://dblp.uni-trier.de/db/conf/acns/
+C,   http://dblp.uni-trier.de/db/conf/ccs/
+C, http://dblp.uni-trier.de/db/conf/acisp/
+C, http://dblp.uni-trier.de/db/conf/ctrsa/
+C, http://dblp.uni-trier.de/db/conf/dimva/
+C,http://dblp.uni-trier.de/db/conf/dfrws/
+C,    http://dblp.uni-trier.de/db/conf/fc/
+C,    http://dblp.uni-trier.de/db/conf/trustcom/
+C,   http://dblp.uni-trier.de/db/conf/sec/
+C,http://www.ifip119.org/Conferences/
+C,   http://dblp.uni-trier.de/db/conf/isw/
+C,http://dblp.uni-trier.de/db/conf/icdf2c/
+C,  http://dblp.uni-trier.de/db/conf/icics/
+C,              http://dblp.uni-trier.de/db/conf/securecomm/
+C, http://dblp.uni-trier.de/db/conf/nspw/
+C,  http://dblp.uni-trier.de/db/conf/pam/
+C,   http://dblp.uni-trier.de/db/conf/pet/
+C,     http://dblp.uni-trier.de/db/conf/sacrypt/
+C,http://dblp.uni-trier.de/db/conf/soups/
+C, http://www.usenix.org/events/
+C,    https://dblp.org/db/conf/eurosp/index.html
+C,https://dblp.org/db/conf/cisc/index.html
